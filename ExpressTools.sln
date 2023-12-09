@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressTools", "src\ExpressTools\ExpressTools.csproj", "{D5C89B89-C76B-4ED6-A028-1C10008D7E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C89B89-C76B-4ED6-A028-1C10008D7E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C89B89-C76B-4ED6-A028-1C10008D7E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C89B89-C76B-4ED6-A028-1C10008D7E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C89B89-C76B-4ED6-A028-1C10008D7E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62716461-F993-4893-A0AD-DCB93300341D}
+	EndGlobalSection
+EndGlobal

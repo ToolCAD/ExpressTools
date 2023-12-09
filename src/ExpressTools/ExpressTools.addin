@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+  <AddIn Type="Command">
+    <Assembly>
+      C:\Projects\Revit\ExpressTools\code\ExpressTools\src\ExpressTools\bin\Debug\ExpressTools.dll
+    </Assembly>
+
+    <AddInId>
+      0DFC7345-3C69-42E0-88D9-24394082470A
+    </AddInId>
+    <FullClassName>ExpressTools.Commands.FitRadiatorCommand</FullClassName>
+    <Text>Fit Radiator</Text>
+    <VendorId>codehaks</VendorId>
+    <VendorDescription>codehaks.com</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Assembly>
+      C:\Projects\Revit\ExpressTools\code\ExpressTools\src\ExpressTools\bin\Debug\ExpressTools.dll
+    </Assembly>
+    <AddInId>
+      14C919C1-E2B6-48DC-902C-CCF9A42654B8
+    </AddInId>
+    <FullClassName>ExpressTools.Commands.MoveToCenterCommand</FullClassName>
+    <Text>Move To Center</Text>
+    <VendorId>codehaks</VendorId>
+    <VendorDescription>codehaks.com</VendorDescription>
+  </AddIn>
+
+</RevitAddIns>
